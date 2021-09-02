@@ -40,7 +40,7 @@ int main() {
     Mandel.drawToImage(image);
     Mandel.zoomPlot(-1.157754, -0.299008, 1.03f);
 
-    image.saveToFile("../images/image" + to_string(frame) + ".png");
+    image.saveToFile("../media/image" + to_string(frame) + ".png");
     frame += 1;
   }
 
