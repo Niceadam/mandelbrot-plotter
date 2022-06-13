@@ -1,4 +1,4 @@
-# mandelbrot-plotter
+# Mandelbrot Plotter
 
 A Mandelbrot fractal explorer written using SFML.
 
